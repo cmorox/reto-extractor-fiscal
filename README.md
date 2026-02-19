@@ -22,7 +22,7 @@ Este proyecto es un pipeline de procesamiento de datos en Python que extrae info
    ```bash
    pip install google-generativeai python-dotenv python-docx openpyxl
 
-```
+
 
 3. Crea un archivo llamado `.env` en la raíz del proyecto y agrega tu clave de API:
 ```text
