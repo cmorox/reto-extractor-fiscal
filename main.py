@@ -129,7 +129,7 @@ if __name__ == "__main__":
                         # Le agregamos el nombre del archivo de origen para tener contexto
                         datos_extraidos["archivo_origen"] = nombre_archivo
                         resultados_globales.append(datos_extraidos)
-                        print("   ✅ Extracción exitosa.")
+                        print("    Extracción exitosa.")
                 else:
                     print("   ⚠️ El archivo estaba vacío o no se pudo leer.")
     else:
@@ -141,4 +141,5 @@ if __name__ == "__main__":
             json.dump(resultados_globales, f, indent=4, ensure_ascii=False)
         print(f"\n¡Proceso terminado! Se han guardado {len(resultados_globales)} registros en '{archivo_salida}'.")
     else:
-        print("\n⚠️ No se extrajeron datos para guardar.")
+
+        print("\n No se extrajeron datos para guardar.")
