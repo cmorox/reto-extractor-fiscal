@@ -47,13 +47,4 @@ python main.py
 ```bash
 python insertar_sql.py
 
-```
 
-
-
-```
-
-
-¿Pudiste copiarlo y guardarlo bien esta vez? ¡Avísame si tienes cualquier otro detalle antes de tu gran día de mañana!
-
-```
