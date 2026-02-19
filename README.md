@@ -1,10 +1,4 @@
-¡Claro que sí! Para que no haya ninguna confusión al seleccionar el texto, te lo pongo aquí abajo en un solo bloque.
 
-**Tip:** Solo dale clic al ícono de **"Copiar"** (los dos cuadritos) que aparece en la esquina superior derecha de este recuadro negro. Así te llevarás el texto exacto, sin que se te escape o se te pegue nada extra.
-
-Luego, ve a GitHub, borra todo lo que tengas en tu README, pega esto y guarda los cambios:
-
-```markdown
 # 📄 El Extractor Fiscal - Prueba Técnica
 
 Este proyecto es un pipeline de procesamiento de datos en Python que extrae información clave de documentos desordenados (texto plano, Word y Excel) utilizando Inteligencia Artificial, y la almacena de forma estructurada en una base de datos relacional.
