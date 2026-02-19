@@ -1,0 +1,23 @@
+[
+    {
+        "nombre_cliente": "Pastelerías Dulce Hogar",
+        "fecha": "2015-02-15",
+        "tipo_solicitud": "Factura",
+        "monto": 8450,
+        "archivo_origen": "duda_facturacion.docx"
+    },
+    {
+        "nombre_cliente": "Gerardo Ruiz",
+        "fecha": "2024-02-16",
+        "tipo_solicitud": "Venta",
+        "monto": 12000,
+        "archivo_origen": "inscripcion_membresia.txt"
+    },
+    {
+        "nombre_cliente": "Juan Carlos Esparza",
+        "fecha": "2026-02-16",
+        "tipo_solicitud": "Queja",
+        "monto": 15000,
+        "archivo_origen": "solicitud_regularizacion.xlsx"
+    }
+]
