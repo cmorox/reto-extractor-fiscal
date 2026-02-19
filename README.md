@@ -43,6 +43,7 @@ python main.py
 
 
 *(Esto generará un archivo `resultado_final.json`)*
+
 3. Ejecuta el script de persistencia para guardar los datos en SQL:
 ```bash
 python insertar_sql.py
